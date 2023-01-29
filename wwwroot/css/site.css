@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.mainText {
+    padding: 75px 20px;
+}
+
+.image {
+    border-radius: 20px 20px;
+}
